@@ -1,0 +1,7 @@
+compile:
+
+$makefile
+
+run:
+
+$./BMICalc
